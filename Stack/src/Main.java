@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        LinkedListBasedStack<Integer> s = new LinkedListBasedStack<>();
+        ArrayBasedStack<Integer> s = new ArrayBasedStack<>();
         s.push(1);
         s.push(2);
         s.push(3);
